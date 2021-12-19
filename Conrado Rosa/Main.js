@@ -1,5 +1,5 @@
 var valor = 207.468;
-let nome = "Conrado";
+var nome = "Conrado";
 
 function imprimirParametro(valor, nome){
 	console.log("O valor enviado é:", valor, ", e o nome: ", nome)
