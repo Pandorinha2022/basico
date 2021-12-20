@@ -10,7 +10,7 @@ console.log('prinsipal agente da revolução:', agente)
 }
 /*
 executa a função
-fim da tarefa
+fim da tarefa.
 */
 
 
