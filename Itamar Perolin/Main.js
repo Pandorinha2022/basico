@@ -5,7 +5,7 @@ const agente = 'Itamar Perolin'
 function frasedeefeito(valor, string, agente){
 console.log('lema da revolução:', string)
 console.log("ano da revolução:", valor)
-console.log('prinsipal agente da revolução:', agente)
+console.log('principal agente da revolução:', agente)
 
 }
 /*
